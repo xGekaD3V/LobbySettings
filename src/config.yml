@@ -1,0 +1,20 @@
+# Thanks for downloading Lobby Settings by GekaTiK (MinecraftDevelopers.net)
+HotBar: 1
+
+expBar: 0
+
+expLevel: 777
+
+# Minimum 1 / Maximum 40
+Food: 40
+
+# <player> = nick of player.
+JoinMessage:
+   # no perm
+   normal: ''
+   # js.join.vip
+   vip: '&6&lVIP &r&b<player> &fjoined the game!'
+   # js.join.staff
+   staff: '&c&lSTAFF &r&b<player> &fjoined the game!'
+LeaveMessage:
+   normal: ''

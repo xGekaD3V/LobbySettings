@@ -1,0 +1,12 @@
+name: LobbySettings
+version: 1.0
+author: GekaTiK, MartinGamerES
+website: minecraftdevelopers.net
+main: com.gekatik.lobbysettings.Main
+permissions:
+   PlayerTogglePrivate.toggle:
+     description: Allow you to toggle player seing.
+     default: true
+   PlayerTogglePrivate.op:
+     description: You cant be hidden.
+     default: op
